@@ -45,16 +45,15 @@
 
 ## 📦 Install
 
-> Not on the Chrome Web Store yet, so load it unpacked:
+<div align="center">
 
-1. Download the latest zip from [**Releases**](https://github.com/aman-nitb-cse/Coding-keyboard-simulator/releases) (or `git clone` this repo).
-2. Open `chrome://extensions` and turn on **Developer mode**.
-3. Click **Load unpacked** and select the extension folder (the one containing `manifest.json`).
-4. Pin the extension for quick access to the popup.
+[![Add to Chrome](https://img.shields.io/badge/Add%20to%20Chrome-Chrome%20Web%20Store-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0f172a)](https://chromewebstore.google.com/detail/gfdalgnofeklmaaagioooicjfjacchpm)
 
-```bash
-git clone https://github.com/aman-nitb-cse/Coding-keyboard-simulator.git
-```
+</div>
+
+1. Open the [**Chrome Web Store page**](https://chromewebstore.google.com/detail/gfdalgnofeklmaaagioooicjfjacchpm).
+2. Click **Add to Chrome** and confirm.
+3. Pin the extension for quick access to the popup.
 
 ## 🎮 Usage
 
@@ -120,18 +119,13 @@ flowchart LR
   <img src="https://contrib.rocks/image?repo=aman-nitb-cse/Coding-keyboard-simulator" alt="Contributors" />
 </a>
 
-### 📥 Downloads & activity
+### 📥 Users & activity
 
-![Downloads](https://img.shields.io/github/downloads/aman-nitb-cse/Coding-keyboard-simulator/total?style=for-the-badge&label=Release%20downloads&color=2563eb&labelColor=0f172a)
+[![Chrome users](https://img.shields.io/chrome-web-store/users/gfdalgnofeklmaaagioooicjfjacchpm?style=for-the-badge&logo=googlechrome&label=Chrome%20users&color=2563eb&labelColor=0f172a)](https://chromewebstore.google.com/detail/gfdalgnofeklmaaagioooicjfjacchpm)
 ![Commit activity](https://img.shields.io/github/commit-activity/m/aman-nitb-cse/Coding-keyboard-simulator?style=for-the-badge&label=Commits%2Fmonth&color=10b981&labelColor=0f172a)
 ![Repo size](https://img.shields.io/github/repo-size/aman-nitb-cse/Coding-keyboard-simulator?style=for-the-badge&color=a78bfa&labelColor=0f172a)
 
 </div>
-
-<!--
-Once published on the Chrome Web Store, add a live users badge (replace EXTENSION_ID):
-[![Chrome users](https://img.shields.io/chrome-web-store/users/EXTENSION_ID?style=for-the-badge&logo=googlechrome&label=Users)](https://chromewebstore.google.com/detail/EXTENSION_ID)
--->
 
 ## 🐞 Feedback
 
