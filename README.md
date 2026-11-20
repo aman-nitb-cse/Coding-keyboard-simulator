@@ -139,7 +139,7 @@ Found a bug or want a feature? Click the 🐞 icon in the popup (it opens a pre-
 
 ## 📄 License
 
-Add a `LICENSE` file (MIT is a common choice) and update this section.
+Released under the [MIT License](LICENSE). © 2026 Aman Kumar Patel.
 
 <div align="center">
 
